@@ -1,1 +1,1 @@
-# pr32-epic-archery-5
+# Project Template 26
